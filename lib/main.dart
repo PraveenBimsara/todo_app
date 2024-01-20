@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:todo_app/home_page.dart';
 
-main() {
+void main() {
   runApp(MyApp());
 }
 
